@@ -10,13 +10,13 @@ author:
   email: daltonwither@gmail.com
 
 # Social links
-social_links:
-  discord:  "https://discord.com/users/dalton_arescentes"
-  matrix:   "https://matrix.to/#/@dalton-wither:matrix.org"
-  revolt:   "https://revolt.chat/u/Dalton_Arescentes#7334"
-  bluesky:  "https://bsky.app/profile/dalton-arescentes.bsky.social"
-  mastodon: "https://mastodon.social/@Arescentes"
-  email:    "mailto:daltonwither+pages@gmail.com"
+# social_links:
+#  discord:  "https://discord.com/users/dalton_arescentes"
+#  matrix:   "https://matrix.to/#/@dalton-wither:matrix.org"
+#  revolt:   "https://revolt.chat/u/Dalton_Arescentes#7334"
+#  bluesky:  "https://bsky.app/profile/dalton-arescentes.bsky.social"
+#  mastodon: "https://mastodon.social/@Arescentes"
+#  email:    "mailto:daltonwither+pages@gmail.com"
 
 # Theme settings
 theme: midnight
