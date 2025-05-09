@@ -1,0 +1,26 @@
+# Site settings
+title: My Jekyll Site
+description: A simple Jekyll site on GitHub Pages.
+url: https://<username>.github.io
+baseurl: ""  # Leave empty for user sites, use "/<repo>" for project sites
+
+# Author info
+author:
+  name: Your Name
+  email: your-email@example.com
+  url: https://your-website.com
+
+# Social links
+social_links:
+  twitter: "https://twitter.com/yourhandle"
+  github: "https://github.com/yourusername"
+
+# Theme settings (optional if using a theme)
+theme: jekyll-theme-cayman  # Replace with your chosen theme
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+# Permalinks
+permalink: pretty
