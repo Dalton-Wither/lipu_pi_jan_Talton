@@ -19,7 +19,7 @@ author:
 #  email:    "mailto:daltonwither+pages@gmail.com"
 
 # Theme settings
-theme: midnight
+theme: jekyll-theme-midnight
 
 # Markdown options
 markdown: kramdown
