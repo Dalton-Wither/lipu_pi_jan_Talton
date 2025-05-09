@@ -1,22 +1,25 @@
 # Site settings
-title: My Jekyll Site
-description: A simple Jekyll site on GitHub Pages.
+title: lipu pi jan Talton
+description: A landing page to direct people to connections too me & my communities.
 url: https://dalton-wither.github.io
 baseurl: ""  # Leave empty for user sites, use "/<repo>" for project sites
 
 # Author info
 author:
   name: dalton
-  email: your-email@example.com
-  url: https://your-website.com
+  email: daltonwither@gmail.com
 
 # Social links
 social_links:
-  twitter: "https://twitter.com/yourhandle"
-  github: "https://github.com/yourusername"
+  discord:  "https://discord.com/users/dalton_arescentes"
+  matrix:   "https://matrix.to/#/@dalton-wither:matrix.org"
+  revolt:   "https://revolt.chat/u/Dalton_Arescentes#7334"
+  bluesky:  "https://bsky.app/profile/dalton-arescentes.bsky.social"
+  mastodon: "https://mastodon.social/@Arescentes"
+  email:    "mailto:daltonwither+pages@gmail.com"
 
-# Theme settings (optional if using a theme)
-theme: jekyll-theme-cayman  # Replace with your chosen theme
+# Theme settings
+theme: midnight
 
 # Markdown options
 markdown: kramdown
