@@ -1,6 +1,6 @@
 # Site settings
 title: lipu pi jan Talton
-description: A landing page to direct people to connections too me & my communities.
+description: A landing page to direct people to me & my communities.
 url: https://dalton-wither.github.io
 baseurl: ""  # Leave empty for user sites, use "/<repo>" for project sites
 
@@ -19,7 +19,7 @@ author:
 #  email:    "mailto:daltonwither+pages@gmail.com"
 
 # Theme settings
-# theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
